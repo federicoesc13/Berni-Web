@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/Berni-Web/static/css/main.17f752f3.css",
-    "main.js": "/Berni-Web/static/js/main.37bd533e.js",
+    "main.css": "/Berni-Web/static/css/main.f1a168d5.css",
+    "main.js": "/Berni-Web/static/js/main.db86a7bf.js",
     "static/media/GradientVideo.mp4": "/Berni-Web/static/media/GradientVideo.1874af0ae847759c4eb5.mp4",
+    "static/media/Imagen2.jpg": "/Berni-Web/static/media/Imagen2.a780d6cac74de2975782.jpg",
+    "static/media/Imagen3.jpg": "/Berni-Web/static/media/Imagen3.ae98b760753874aa84ae.jpg",
     "index.html": "/Berni-Web/index.html",
-    "main.17f752f3.css.map": "/Berni-Web/static/css/main.17f752f3.css.map",
-    "main.37bd533e.js.map": "/Berni-Web/static/js/main.37bd533e.js.map"
+    "main.f1a168d5.css.map": "/Berni-Web/static/css/main.f1a168d5.css.map",
+    "main.db86a7bf.js.map": "/Berni-Web/static/js/main.db86a7bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.17f752f3.css",
-    "static/js/main.37bd533e.js"
+    "static/css/main.f1a168d5.css",
+    "static/js/main.db86a7bf.js"
   ]
 }
