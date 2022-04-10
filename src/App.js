@@ -6,7 +6,8 @@ function App() {
   return (
     <>
       <Routes>
-      <Route path='/' element={<Home />} />
+      <Route path='/Berni-Web' element={<Home />} />
+      {/* <Route path='/' element={<Home />} /> */}
       </Routes>
     </>
   );
