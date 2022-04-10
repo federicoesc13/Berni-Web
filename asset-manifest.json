@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Berni-Web/static/css/main.17f752f3.css",
+    "main.js": "/Berni-Web/static/js/main.2eb19626.js",
+    "static/media/GradientVideo.mp4": "/Berni-Web/static/media/GradientVideo.1874af0ae847759c4eb5.mp4",
+    "index.html": "/Berni-Web/index.html",
+    "main.17f752f3.css.map": "/Berni-Web/static/css/main.17f752f3.css.map",
+    "main.2eb19626.js.map": "/Berni-Web/static/js/main.2eb19626.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17f752f3.css",
+    "static/js/main.2eb19626.js"
+  ]
+}
