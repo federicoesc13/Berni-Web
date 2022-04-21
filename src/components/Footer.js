@@ -26,8 +26,8 @@ const Footer = () => {
                 <h4>Acerca de la Escuela</h4>
                 <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit."</p>
                 <div className='social'>
-                    <FaFacebook size={30} style={{color:'#ffffff', marginRight:'1rem'}} />
-                    <FaInstagram to='https://www.instagram.com/laberniok/' size={30} style={{color:'#ffffff', marginRight:'1rem'}} />
+                     <a target="_blank" href="https://www.facebook.com/antonio.berni.311"><FaFacebook size={30} style={{color:'#ffffff', marginRight:'1rem'}} /></a>
+                     <a target="_blank" href="https://www.instagram.com/laberniok/"><FaInstagram size={30} style={{color:'#ffffff', marginRight:'1rem'}} /></a>              
                 </div>            
             </div>
         </div>

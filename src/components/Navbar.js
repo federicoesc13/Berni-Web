@@ -1,7 +1,7 @@
 import React, {useState} from 'react'
 import {Link} from 'react-router-dom'
 import {FaBars, FaTimes} from 'react-icons/fa'
-import Logo from '../assets/Untitled-1.png'
+import Logo from '../assets/Untitled-1.svg'
 
 import './NavbarStyles.css'
 
@@ -22,7 +22,7 @@ const Navbar = () => {
 
   return (
     <div className={color ? 'header header-bg' : 'header'}>
-        <Link to='/Berni-Web'><img src={Logo}></img></Link>
+        <Link to='/Berni-Web'><img src={Logo} width={"100px"} height={"100px"} alt="Logo"></img></Link>
         <ul className={click ? 'nav-menu active' : 'nav-menu'}>
             <li>
                 <Link to='/Carreras'>Carreras</Link>

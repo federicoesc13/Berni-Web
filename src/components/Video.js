@@ -12,7 +12,7 @@ const Video = () => {
         </video>
     <div className='content'>
         <h1>Antonio Berni</h1>
-        <p>Escuela de Artes</p>
+        <p>Escuela de Artes Visuales</p>
     <div>
         <Link to='/Carreras' className='btn'>Carreras</Link>
         <Link to='/Contacto' className='btn btn-light'>Contacto</Link>
