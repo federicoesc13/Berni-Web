@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/Berni-Web/static/css/main.f1a168d5.css",
-    "main.js": "/Berni-Web/static/js/main.db86a7bf.js",
-    "static/media/GradientVideo.mp4": "/Berni-Web/static/media/GradientVideo.1874af0ae847759c4eb5.mp4",
-    "static/media/Imagen2.jpg": "/Berni-Web/static/media/Imagen2.a780d6cac74de2975782.jpg",
-    "static/media/Imagen3.jpg": "/Berni-Web/static/media/Imagen3.ae98b760753874aa84ae.jpg",
+    "main.css": "/Berni-Web/static/css/main.345f689f.css",
+    "main.js": "/Berni-Web/static/js/main.4e2991b2.js",
+    "static/media/GradientVideo.mp4": "/Berni-Web/static/media/GradientVideo.55da3a116d3a6232197e.mp4",
+    "static/media/Foto.jpg": "/Berni-Web/static/media/Foto.7d6bb0dd31776f393cd6.jpg",
+    "static/media/Foto2.jpg": "/Berni-Web/static/media/Foto2.47635210ff4f8e98718c.jpg",
+    "static/media/Imagen2.jpg": "/Berni-Web/static/media/Imagen2.7c8df3475290c0eec8ca.jpg",
+    "static/media/Imagen3.jpg": "/Berni-Web/static/media/Imagen3.7c8df3475290c0eec8ca.jpg",
+    "static/media/Untitled-1.svg": "/Berni-Web/static/media/Untitled-1.bc56a55333065b7f2fc0d7990017c14e.svg",
     "index.html": "/Berni-Web/index.html",
-    "main.f1a168d5.css.map": "/Berni-Web/static/css/main.f1a168d5.css.map",
-    "main.db86a7bf.js.map": "/Berni-Web/static/js/main.db86a7bf.js.map"
+    "main.345f689f.css.map": "/Berni-Web/static/css/main.345f689f.css.map",
+    "main.4e2991b2.js.map": "/Berni-Web/static/js/main.4e2991b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1a168d5.css",
-    "static/js/main.db86a7bf.js"
+    "static/css/main.345f689f.css",
+    "static/js/main.4e2991b2.js"
   ]
 }
