@@ -5,6 +5,7 @@ import SinglePost from '../../components/SinglePost'
 
 
 const singlePostPage = () => {
+  window.scrollTo(0,0);
   return (
     <>
     <Navbar/>

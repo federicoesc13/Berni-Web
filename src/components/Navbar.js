@@ -25,16 +25,16 @@ const Navbar = () => {
         <Link to='/Berni-Web'><img src={Logo} width={"100px"} height={"100px"} alt="Logo"></img></Link>
         <ul className={click ? 'nav-menu active' : 'nav-menu'}>
             <li>
-                <Link to='/Carreras'>Carreras</Link>
+                <Link to='/carreras'>Carreras</Link>
             </li>
             <li>
-                <Link to='/Contacto'>Contacto</Link>
+                <Link to='/contacto'>Contacto</Link>
             </li>
             <li>
-                <Link to='/Blog'>Blog</Link>
+                <Link to='/blog'>Blog</Link>
             </li>
             <li>
-                <Link to='/Historia'>Historia</Link>
+                <Link to='/historia'>Historia</Link>
             </li>
         </ul>
         <div className='hamburger' onClick={handleClick}>

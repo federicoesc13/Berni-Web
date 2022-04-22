@@ -5,6 +5,7 @@ import	Heroimage from '../components/HeroImage'
 import CarrerasCards from '../components/Carreras'
 
 const Carreras = () => {
+  window.scrollTo(0,0);
   return (
     <div>
         <Navbar />

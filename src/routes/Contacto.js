@@ -5,6 +5,7 @@ import Footer from '../components/Footer'
 import Form from '../components/Form'
 
 const Contacto = () => {
+  window.scrollTo(0,0);
   return (
     <div>
         <Navbar />

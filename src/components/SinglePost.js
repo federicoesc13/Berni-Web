@@ -8,9 +8,9 @@ const SinglePost = () => {
   return (
     <div className='singlePost'>
         <div className='singlePostWrapper'>
-          <img className='singlePostImg' src='https://www.nationalgeographic.com.es/medio/2021/07/01/glory-of-damavand-and-milky-way_710ab66c_1348x890.jpg'></img>
+          <img className='singlePostImg' src='https://fastly.4sqi.net/img/general/width960/3632723_wKjRIMAJiB6HBUzpPFexMfmITqGC9mZ45d2sd2wlQc8.jpg'></img>
         <h1 className='singlePostTitle'>
-          Lorem ipsum
+        Inscripciones 2022
           <div className='singlePostEdit'>
           <FaRegEdit className='singlePostIconEdit'></FaRegEdit>
           <FaRegTrashAlt className='singlePostIconDelete'></FaRegTrashAlt>
@@ -20,7 +20,18 @@ const SinglePost = () => {
           <span className='singlePostAuthor'>Autor: <b>Federico Escobar</b></span>
           <span className='singlePostDate'>21 de Abril del 2022</span>
           </div>
-          <p className='singlePostDesc'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas commodo aliquam dolor at dapibus. Morbi congue egestas justo, nec varius lorem ullamcorper a. Nulla rhoncus posuere tellus sed imperdiet. Vestibulum non nisi a dolor tristique facilisis a vitae orci. Ut vehicula pulvinar venenatis. Nulla porta urna quis purus rutrum finibus. Cras pretium nulla ac sollicitudin congue. Nam sagittis vestibulum lorem, sed vulputate metus aliquet et. Maecenas sapien orci, lobortis at felis aliquam, hendrerit porta massa. Mauris et lobortis tellus, ut tempus mauris.
+          <p className='singlePostDesc'>A continuación encontrarán toda la información y requisitos para la inscripción a las carreras en las sedes de San Martín y San Isidro, así como la planilla de inscripción y ficha médica para descargar.
+          *PROFESORADO DE ARTES VISUALES – Orientación GRABADO, ESCULTURA o PINTURA – 4 años, Validez Nacional – (Turnos Mañana, Tarde o Noche) Requisito: curso introductorio (FOBA) de 1 año de duración (Total: 5 años)
+          catura en DISEÑO GRAFICO – 3 años, Validez Nacional) (Turnos Mañana o Noche) O GRAFICO – 1 año, Validez Nacional – (Turnos Mañana o Noche) Requisito: Técnico en Diseño Gráfico
+          *Tecnicatura en DISEÑO de IMAGEN y SONIDO – 3 años, Validez Nacional – (Turno Noche)
+          Requisitos de inscripción:
+          Formulario de inscripción con datos personales (descargarlo de FB Antonio Berni o adquirirlo en Pedro o M&M)
+          2 fotocopias del DNI, frente y dorso.
+          3 fotos 4×4.
+          2 fotocopias de analítico secundario, o constancia de título en trámite, o de alumno regular cursando el último año del secundario.
+          Certificado de apto físico.
+          Carpeta de tres solapas color “NARANJA” con folio oficio.
+          (En sede Martínez el folio, la planilla de inscripción y la carpeta serán proveídos por las preceptoras y tendrá un costo de $100, que abonará el estudiante)
           </p>
         
         </div>
